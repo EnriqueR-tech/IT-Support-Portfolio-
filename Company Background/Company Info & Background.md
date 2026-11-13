@@ -11,8 +11,6 @@ The business will contain 20+ users with 4 Departments:
 | Personnel | Basic Team Members or Corporate workers  |
 
 
-The Image attached will show the hierarchy structure RavenIT.com in Active Domain.
-
 <picture>
- <img  src="image.png">
+ <img alt="Hieriarchy structure"  src="image.png">
 </picture>
