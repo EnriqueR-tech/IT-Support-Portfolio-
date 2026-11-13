@@ -5,8 +5,9 @@ ADMINGUY  <!--(I know its a bad name to reference a server for other computers t
 
 ## Departments
 The business will contain 4 Departments for users they belong to:
---- 2-3 departments will be added later: Finance/Sales and Customer (11/12/2026)
---- I wanted to simulate of moving users to another OU, change GPO, and "fix" issues users might encounter
+---
+>2-3 departments will be added later: Finance/Sales and Customer (11/12/2026)
+>I wanted to simulate of moving users to another OU, change GPO, and "fix" issues users might encounter
 
 | Department | Description |
 |-----:|---------------|
