@@ -10,5 +10,5 @@ Personnel  - Basic Team Members or Corporate workers
 The Image attached will show the hierarchy structure RavenIT.com in Active Domain.
 
 <picture>
- <img alt="YOUR-ALT-TEXT" src="Company Background/image.png">
+ <img  src="image.png">
 </picture>
