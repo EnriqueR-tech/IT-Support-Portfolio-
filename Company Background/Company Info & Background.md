@@ -9,4 +9,6 @@ Personnel  - Basic Team Members or Corporate workers
 
 The Image attached will show the hierarchy structure RavenIT.com in Active Domain.
 
-Company Background/VirtualBox_LabNet_12_11_2026_19_43_16.png
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="Company Background/image.png">
+</picture>
