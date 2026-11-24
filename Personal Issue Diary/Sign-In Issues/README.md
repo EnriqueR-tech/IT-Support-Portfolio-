@@ -7,3 +7,7 @@ Writing this to reminder to create theory and dignostics steps:
 1. Check the GPO
 2. Check Active Directory users and computers
 3. Check Event Viewer
+
+
+3. I remotely connect Desktop-1 (Have to enable inbound firewall rules : Remote Log Management) to view Windows > Security.
+The ID im looking for is : ID 4625. That should give me a clue where the problem start.
