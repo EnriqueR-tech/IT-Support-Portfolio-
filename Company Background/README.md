@@ -1,4 +1,4 @@
-## Background
+## Company Info and Background
 RavenIT.com started out as a 20+ personnel/workers started in Dallas Texas. The company itself wanted to operate at a small-medium business level. 
 Later on in this documentation, the company will add more users, departments, and managing accounts as well Group Policy by permissions, administrative access, mapped network drives, and
 more 
